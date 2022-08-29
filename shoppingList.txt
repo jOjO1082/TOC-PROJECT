@@ -6,3 +6,6 @@ UI Sample
 Hex code for color
 Content
 Laptop
+Desktop
+Crane
+Entertainment
